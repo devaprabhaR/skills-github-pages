@@ -1,6 +1,7 @@
 ---
-title: Welcome ig?
-date: 2023-05-24
+    title: Welcome ig?
+
+    date: 2023-05-24
 ---
 # Numma Scene Thanne
 ### Welcome to my blog
